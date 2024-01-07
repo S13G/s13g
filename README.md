@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nedsieg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nedsieg" height="30" width="40" /></a>
-<a href="https://https://www.linkedin.com/in/ayomide-alonge-46062b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayomide alonge" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayomide-alonge-46062b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayomide alonge" height="30" width="40" /></a>
 <a href="https://fb.com/ayomide alonge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayomide alonge" height="30" width="40" /></a>
 <a href="https://hashnode.com/@s13g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sieg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@siegdomain7251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sieg domain" height="30" width="40" /></a>

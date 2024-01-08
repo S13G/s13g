@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **JobNest**
 
-- 👯 I’m currently learning **Flutter and Dart**
+- 👯 I’m currently learning **Flutter, Dart and cloud technologies**
 
-- 💬 Ask me about **backend, django, python**
+- 💬 Ask me about: **backend, Django, python**
 
-- 📫 How to reach me **ayflix0@gmail.com**
+- 📫 How to reach me: **ayflix0@gmail.com**
 
-- ⚡ Fun fact **I love reading books on backend engineering and i love watching videos on tech trends**
+- ⚡ Fun fact: **I love reading books on backend engineering and I love watching videos on tech trends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

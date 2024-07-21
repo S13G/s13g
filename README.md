@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s13g&label=Profile%20views&color=0e75b6&style=flat" alt="s13g" /> </p>
 
-- 🔭 I’m currently working on **JobNest**
+- 🔭 I’m currently working on **JobNest** and **Galavant**
 
 - 👯 I’m currently learning **Flutter, Dart and cloud technologies**
 
-- 💬 Ask me about: **backend, Django, python**
+- 💬 Ask me about: **backend, Django, Python**
 
 - 📫 How to reach me: **ayflix0@gmail.com**
 

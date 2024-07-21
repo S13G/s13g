@@ -7,11 +7,11 @@
 
 - 👯 I’m currently learning **Flutter, Dart and cloud technologies**
 
-- 💬 Ask me about: **backend, Django, Python**
+- 💬 Ask me about: **Backend, Django, Python**
 
 - 📫 How to reach me: **ayflix0@gmail.com**
 
-- ⚡ Fun fact: **I love reading books on backend engineering and I love watching videos on tech trends**
+- ⚡ Fun fact: **I love reading books on backend engineering and psychology plus... I love watching anime and tech videos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

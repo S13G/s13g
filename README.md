@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s13g&label=Profile%20views&color=0e75b6&style=flat" alt="s13g" /> </p>
 
-- 🔭 I’m currently working on **JobNest** and **Galavant**
+- 🔭 I’m currently learning some new frameworks in Python
 
 - 👯 I’m currently learning **Flutter, Dart and cloud technologies**
 

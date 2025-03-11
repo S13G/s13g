@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently learning some new frameworks in Python
 
-- 👯 I’m currently learning **Flutter, Dart and cloud technologies**
+- 👯 I’m currently learning **Flutter, Dart, Ruby and AI/ML**
+
+- 👷 I'm currently building **ConnectMe: An engagement platform**
 
 - 💬 Ask me about: **Backend, Django, Python**
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm passionate about building robust products and systems and implementing automation solutions that solves user problems and business needs</p>
+<p align="left">I enjoy building products, systems and solutions that solves user problems and business needs</p>
 
 ###
 

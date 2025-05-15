@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s13g&label=Profile%20views&color=0e75b6&style=flat" alt="s13g" /> </p>
 
-<h2 align="left">I’m currently learning, exploring new technologies, writing and also building useful products</h2>
+<h2 align="left">I’m currently learning, exploring new technologies, writing articles and also building useful products</h2>
 
 ###
 

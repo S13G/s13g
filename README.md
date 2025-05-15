@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👷 I'm currently building **ConnectMe: An engagement platform** and **NestWash**<br><br>👯 I’m currently learning AI/ML and some DSA stuff**<br><br>💬 Ask me about: **Backend, Psychology, Writing, Mobile, Anime too*<br><br>📫 How to reach me: **ayflix0@gmail.com**<br><br>⚡ Fun fact: **I love reading books on backend engineering and psychology and... I enjoy writing, watching anime and tech trends**</p>
+<p align="left">👷 I'm currently building **ConnectMe: An engagement platform** and **NestWash**<br><br>👯 I’m currently learning AI/ML and some DSA stuff<br><br>💬 Ask me about: **Backend, Psychology, Writing, Mobile, Anime too*<br><br>📫 How to reach me: **ayflix0@gmail.com**<br><br>⚡ Fun fact: **I love reading books on backend engineering and psychology and... I enjoy writing, watching anime and tech trends**</p>
 
 ###
 
